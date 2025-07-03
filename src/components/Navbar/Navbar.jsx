@@ -2,7 +2,8 @@ import React, { useState } from "react";
 
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
-// img src="/assets/nav/menuIcon.png" alt="menu-button" 
+// img src="/assets/nav/menuIcon.png" alt="menu-button" working fine too
+
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
 
