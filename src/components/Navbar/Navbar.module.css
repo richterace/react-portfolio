@@ -1,4 +1,4 @@
-@import "../vars.css";
+@import "../../vars.css";
 
 
 .navbar {
@@ -35,6 +35,7 @@
     text-decoration: none;
 }
 
+/* to make the website responsive */
 
 @media screen and (max-width: 830px) {
     .navbar {
@@ -43,6 +44,7 @@
     }
 
     .menu {
+        display: none;
         position: absolute;
         right: 0px;
         margin-right: 10px;
@@ -55,10 +57,10 @@
     .menuBtn {
         display: block;
         cursor: pointer;
-
     }
 
     .menuItems {
+        display: none;
         flex-direction: column;
         align-items: center;
         gap: 13px;
