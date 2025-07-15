@@ -8,7 +8,7 @@ export const About = () => {
         <h2 className={styles.title}>About</h2>
         <div className={styles.content}>
             <img src={getImageUrl("about/aboutImage.png")}
-                alt='About image' className={styles.aboutImg} />
+                alt='About image' className={styles.aboutImage} />
 
 
             <ul className={styles.aboutItems}>
@@ -17,8 +17,7 @@ export const About = () => {
                         alt="Cursor Icon" />
                     <div className={styles.aboutItemText}>
                         <h3>Frontend Developer</h3>
-                        <p> I am somehow a frontend developer.
-                            Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                        <p>Experienced in building responsive web and desktop interfaces using modern frontend technologies.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
@@ -26,18 +25,18 @@ export const About = () => {
                         alt="Server Icon" />
                     <div className={styles.aboutItemText}>
                         <h3>Backend Developer</h3>
-                        <p> I can handle such thing duh.
-                            Lorem ipsum Lorem ipsum Lorem ipsum</p>
+                        <p>Capable of handling backend tasks and building APIs; currently expanding my knowledge in server-side development.</p>
                     </div>
+
                 </li>
                 <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/uiIcon.png")}
                         alt="UI Icon" />
                     <div className={styles.aboutItemText}>
                         <h3>Data Analyst</h3>
-                        <p> I specialize in data.
-                            Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
+                        <p>Passionate about working with data and uncovering insights—believing data is at the core of impactful decisions.</p>
                     </div>
+
                 </li>
             </ul>
         </div>

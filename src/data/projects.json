@@ -1,39 +1,38 @@
 [
     {
-        "title": "Project A",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "title": "PreView",
+        "imageSrc": "projects/Preview.jpg",
+        "description": "A netflix inspired web ticket management application for cinema.",
         "skills": [
-            "React",
-            "Express",
-            "Node"
+            "Php",
+            "JavaScript",
+            "XAMPP"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://drive.google.com/file/d/1fHI2ERQbtWybYIQyaD1MiCJLAbafEHi0/view?fbclid=IwY2xjawLi5m9leHRuA2FlbQIxMQABHr9Qd6hNfHLSS61-r7CzwtgxZd0_zLb0yDUAWD18o-Q9mrm612gI-RXA_MRg_aem_CFQ1ipe0YRxRfhpSstyI4g",
+        "source": "https://github.com/richterace/PreView"
     },
     {
-        "title": "Project B",
+        "title": "ExtractSum",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "Our thesis project, Terms of Service summarizer using NMF.",
         "skills": [
-            "React",
-            "Express",
-            "Node",
-            "Sass"
+            "Python",
+            "Jupyter",
+            "Notebook"
         ],
         "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "source": "https://github.com/richterace/ToS-Summarizer"
     },
     {
-        "title": "Project C",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "title": "SideKlick",
+        "imageSrc": "projects/SideKlick.jpg",
+        "description": "A desktop application to help manage every day choir.",
         "skills": [
-            "React",
-            "Express",
-            "Node"
+            "PyQt Designer",
+            "Python",
+            "MySql"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://drive.google.com/file/d/1fPT1RdpPOVwqdaBBbh4Jpzql_hJ5VtsW/view?usp=drive_link",
+        "source": "https://github.com/richterace/SideKlick"
     }
 ]

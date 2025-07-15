@@ -91,13 +91,13 @@
     z-index: 0;
 }
 
-.bottomBlur {
+.rightBlur {
     position: absolute;
     width: 70vw;
     height: 50vw;
     min-width: 350px;
     min-height: 250px;
-    top: 246px;
+    top: 259px;
     right: -25vw;
     border-radius: 764px;
     background: rgba(25, 55, 109, 0.7);
